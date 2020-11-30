@@ -4,3 +4,4 @@ array.each_with_index do |array, index|
  array[0,1].join(" and ")
  array[-1].join(", ")
 end
+end
